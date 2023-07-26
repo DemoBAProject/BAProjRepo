@@ -3,4 +3,4 @@
 Organize catering company
 Blue and White chairs
 Tents
-100 Tables
+50 Tables
